@@ -1,0 +1,12 @@
+com\soft1851\coursecenter\domain\dto\CourseDto.class
+com\soft1851\coursecenter\common\ResponseResult$ResponseResultBuilder.class
+com\soft1851\coursecenter\controller\CourseController.class
+com\soft1851\coursecenter\domain\entity\Course$CourseBuilder.class
+com\soft1851\coursecenter\domain\entity\Course.class
+com\soft1851\coursecenter\CourseCenterApplication.class
+com\soft1851\coursecenter\dao\CourseMapper.class
+com\soft1851\coursecenter\domain\dto\CourseDto$CourseDtoBuilder.class
+com\soft1851\coursecenter\domain\dto\UserDto.class
+com\soft1851\coursecenter\domain\dto\UserDto$UserDtoBuilder.class
+com\soft1851\coursecenter\service\CourseService.class
+com\soft1851\coursecenter\common\ResponseResult.class
